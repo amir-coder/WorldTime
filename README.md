@@ -1,6 +1,6 @@
 # worldtime
 
-A new Flutter application.
+This is a simple flutter app that shows the actual time in different locations around the world.
 
 ## Getting Started
 
